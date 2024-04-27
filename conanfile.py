@@ -4,7 +4,7 @@ from conan.tools.cmake import CMakeToolchain, CMake, cmake_layout, CMakeDeps
 
 class my_algorithmRecipe(ConanFile):
     name = "my_foundation"
-    version = "0.0.1"
+    version = "0.0.2"
     package_type = "library"
 
     # Optional metadata
