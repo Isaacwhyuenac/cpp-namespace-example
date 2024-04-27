@@ -9,5 +9,5 @@ target_include_directories(my_foundation PUBLIC include)
 
 
 
-set_target_properties(my_foundation PROPERTIES PUBLIC_HEADER "include/my_algorithm.h")
+set_target_properties(my_foundation PROPERTIES PUBLIC_HEADER "include/my_foundation/my_algorithm.h")
 install(TARGETS my_foundation)
