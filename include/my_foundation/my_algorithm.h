@@ -12,3 +12,4 @@
 
 MY_ALGORITHM_EXPORT void my_algorithm();
 MY_ALGORITHM_EXPORT void my_algorithm_print_vector(const std::vector<std::string> &strings);
+MY_ALGORITHM_EXPORT int answer();
